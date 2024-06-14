@@ -14,7 +14,7 @@ public class Test {
 		student.display();
 		System.out.println("----------------------");
 		
-		System.out.println("checking the code");
+		System.out.println("checking the code.");
 	}
 
 }
