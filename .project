@@ -3,6 +3,7 @@
 	<name>Jenkins-project-main</name>
 	<comment></comment>
 	<projects>
+		<project>javawebapps</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
